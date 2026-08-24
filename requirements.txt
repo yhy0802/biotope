@@ -1,7 +1,0 @@
-streamlit
-pandas
-openpyxl
-pillow
-transformers
-torch
-streamlit-js-eval
